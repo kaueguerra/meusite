@@ -101,3 +101,29 @@ color: #26B523;
           font-size: 40px;
           text-decoration: underline;
       }
+      .p80{position: absolute;
+        width: 900px;
+        height: 16px;
+        left: 58px;
+        top: 800px;
+        
+        font-family: 'cursive';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 50px;
+        
+        color: #a2f8a0;}
+        .p81{position: absolute;
+          width: 900px;
+          height: 16px;
+          left: 58px;
+          top: 830px;
+          
+          font-family: 'cursive';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 30px;
+          line-height: 50px;
+          
+          color: #a2f8a0;}
